@@ -1,0 +1,3 @@
+/Users/ouhomarebon/esp_project/github/esp32_soc/database/Let-s-Build-a-Simple-Database/day0/build/CMakeFiles/rebuild_cache.dir
+/Users/ouhomarebon/esp_project/github/esp32_soc/database/Let-s-Build-a-Simple-Database/day0/build/CMakeFiles/edit_cache.dir
+/Users/ouhomarebon/esp_project/github/esp32_soc/database/Let-s-Build-a-Simple-Database/day0/build/CMakeFiles/database.dir
